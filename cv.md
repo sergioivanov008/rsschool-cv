@@ -62,3 +62,9 @@ function fizzbuzz(n) {
 - self-education, YouTube
 
 ---
+
+## English level:
+
+А2 - Pre-Intermediate
+
+---
