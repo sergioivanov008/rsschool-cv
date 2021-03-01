@@ -55,3 +55,10 @@ function fizzbuzz(n) {
 - [CodeWars](https://www.codewars.com/users/sergioivanov008)
 
 ---
+
+## Education:
+
+- BSEU
+- self-education, YouTube
+
+---
