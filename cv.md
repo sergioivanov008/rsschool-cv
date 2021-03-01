@@ -14,3 +14,14 @@
 My goal is to become a developer and change my life
 
 ---
+
+## Skills:
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **Git**
+- **CorelDraw, Photoshop, SketchUp**
+
+---
