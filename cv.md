@@ -25,3 +25,26 @@ My goal is to become a developer and change my life
 - **CorelDraw, Photoshop, SketchUp**
 
 ---
+
+## Code example:
+
+```
+function fizzbuzz(n) {
+    let newArr = []
+    for (let i = 1; i < n + 1; i++) {
+
+        if (i % 3 == 0 && i % 5 == 0) {
+            newArr.push('FizzBuzz');
+        } else if (i % 5 == 0) {
+            newArr.push('Buzz');
+        } else if (i % 3 == 0) {
+            newArr.push('Fizz');
+        } else {
+            newArr.push(i);
+        }
+    }
+    return newArr;
+}
+```
+
+---
