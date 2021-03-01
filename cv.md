@@ -8,3 +8,9 @@
 - **e-mail:** _sergioivanov008@gmail.com_
 
 ---
+
+## About me:
+
+My goal is to become a developer and change my life
+
+---
