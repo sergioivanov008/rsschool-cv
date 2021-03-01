@@ -1,19 +1,13 @@
 # Siarhei Kulik
 
----
-
 ## Contacts:
 
 - **tel:** _+375 29 336 17 01_
 - **e-mail:** _sergioivanov008@gmail.com_
 
----
-
 ## About me:
 
 My goal is to become a developer and change my life
-
----
 
 ## Skills:
 
@@ -23,8 +17,6 @@ My goal is to become a developer and change my life
 - **React**
 - **Git**
 - **CorelDraw, Photoshop, SketchUp**
-
----
 
 ## Code example:
 
@@ -47,24 +39,16 @@ function fizzbuzz(n) {
 }
 ```
 
----
-
 ## Work experience:
 
 - [Github](https://github.com/sergioivanov008)
 - [CodeWars](https://www.codewars.com/users/sergioivanov008)
-
----
 
 ## Education:
 
 - BSEU
 - self-education, YouTube
 
----
-
 ## English level:
 
 А2 - Pre-Intermediate
-
----
