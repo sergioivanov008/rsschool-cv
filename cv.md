@@ -48,3 +48,10 @@ function fizzbuzz(n) {
 ```
 
 ---
+
+## Work experience:
+
+- [Github](https://github.com/sergioivanov008)
+- [CodeWars](https://www.codewars.com/users/sergioivanov008)
+
+---
