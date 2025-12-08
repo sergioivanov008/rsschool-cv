@@ -42,7 +42,7 @@ function fizzbuzz(n) {
 ## Work experience:
 
 - [Github](https://github.com/sergioivanov008)
-- [CodeWars](https://www.codewars.com/users/sergioivanov008)
+- [CodeWars](https://www.codewars.com/users/rsschool_191387aaa4174871)
 
 ## Education:
 
@@ -51,4 +51,4 @@ function fizzbuzz(n) {
 
 ## English level:
 
-А2 - Pre-Intermediate
+B1 - Pre-Intermediate
